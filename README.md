@@ -14,7 +14,7 @@ Dr. Luiz F. Satolo is a Masters' candidate in Applied Computing at Brazilian Nat
 
 ### Open-source projects
 
-- **Python packages:** [pyInpe](https://github.com/luizsatolo/pyInpe)
+- **Python packages:** [pyinpe](https://github.com/luizsatolo/pyinpe)
 
 ### Latest publications
 
